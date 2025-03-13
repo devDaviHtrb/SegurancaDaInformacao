@@ -1,0 +1,18 @@
+Aula 12/03/2025
+
+Introdução a segurança da informação
+
+Professor: Luk Cho Man
+email: prof.luk.2020@gmail.com.br
+Métodos de avaliação
+
+1 prova bimestral (peso 7)
+trabalhos (peso3)
+
+média ( p*0,7+T*0,3)
+rec: nota<6 -> altera a nota da prova
+
+Material de aula: SUap
+
+Dado:matéria prima
+Informação: resultado final

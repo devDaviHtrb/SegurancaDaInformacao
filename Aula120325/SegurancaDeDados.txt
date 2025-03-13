@@ -1,0 +1,1 @@
+Segurança de dados: mediadas de proteção para evitar acesso não autorizado de dados. Além disso pŕotege a confidencialidade, integridade e disponibilidade. É um termo que é geral para proteção contra roubo, perda e contaminação.
