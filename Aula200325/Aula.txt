@@ -1,0 +1,13 @@
+Os quatro principios da segurança da informação
+
+principios: começo, inicio: olhar geral, mas não detelhado 
+
+principio 1: confidencialidade -> manter o sigilo dos dados e informações -> somente quem tem autorização tem acesso aos dados e informações, isso inclui pessoas, instituições e processos-> Pode ser quebrado por engenharia social
+
+principio 2: Integridade-> garante a veracidade das informações, indicando que os dados não podem ser alterados sem autorização -> diferentes niveis de acesso
+
+principio 3: Disponibilidade -> garante que os dados e sistemas estejam disponíveis para pessoas autorizadas no momento que se tornar necessário
+
+principio 4: Autenticidade-> garante a verdadeira autoria da informação, ou seja, que os dados são de fato provenientes de determinada fonte. -> controle de acesso
+
+variáveis: nome, tipo e espaço na memória -> deve incluir regra
