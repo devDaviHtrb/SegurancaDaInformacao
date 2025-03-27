@@ -1,0 +1,13 @@
+Criptografia: técnica que protege dados contra roubo, alteração ou comprometimento transformando-os em códigos que só podem ser desbloqueados com uma chave digital -> Sinal(códigos) em informações
+
+Objetivo-> proteger arquivos, objetos e banco de dados
+Surgimento-> Guerras
+
+Formas: código ou Cifra
+Cifra = criptografia -> Informação legível -> ilegível
+
+Termos: Encripta(Codificar)/Decripta(decodificar) } -> algoritmos de criptografia -> trasformam carcteres ou bits sem levar em consideração a semantica
+
+Tipos: 
+    Substituição: sustitui os caracteres
+    Trasposição: troca os caracteres de lugar
