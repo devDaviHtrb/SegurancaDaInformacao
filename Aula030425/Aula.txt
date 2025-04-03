@@ -1,0 +1,24 @@
+prova dia 10/04
+Protocolos seguros na comunicação de dados
+Protocolo: conjunto das informações, normas e regras definidas a partir de um ato oficial, como uma audiência
+
+Diplomatico: conjuntode regras de comportamento em situações diplomáticas
+
+Comunicação: conjunto de regras que define como os dados são trocados entre dispositivos -> controla formato, sicronismo, sequência e detecção de erros
+
+Tipos:
+    Rede: TCP/IP; HTTP; FTP; SSH; IMAP; ICMP
+    Serial
+    Automação
+
+Funcionamento do TCP/IP: combinação de protocolos para o envio e recebimento de dados na internet
+    Divide a informação em pacotes com instruções sobre o remetente, destino e sequência
+    Reorganiza os pacotes após todos chegarem no destino para formar a mensagem original
+    Suporta varias tecnologias e sistemas operacionais, assim como protocolos de roteamento
+    É confiável, leve e escalável
+
+Funcionamento HTTP: usado para navegar em sites, o HTTPS e a versão segura
+Funcionamento FTP/SFTP: usado para transferir arquivos entre cliente e servidor
+Funcionamento SSH: usado para aumentar a segurança na troca de arquivos
+Funcionamento IMAP POP: Gerencia o correui eletrônico
+Funcionamento ICMP: fornece dadis de controle, incluindo mensagens de erros
